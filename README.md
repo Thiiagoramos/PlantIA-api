@@ -98,7 +98,7 @@ Listadas em `requirements.txt`. As principais incluem:
 
 | Repositório | Descrição |
 |------------|-----------|
-| [smart-irrigation-system](https://github.com/Thiiagoramos/smart-irrigation-system) | Visão geral e arquitetura do projeto completo |
+| [smart-irrigation-system](https://github.com/Thiiagoramos/PlantIA) | Visão geral e arquitetura do projeto completo |
 | [PlantIA-api](https://github.com/Thiiagoramos/PlantIA-api) | Esta API — back-end Flask |
 | *(App Mobile)* | Aplicativo de visualização dos dados |
 | *(IA / Diagnóstico)* | Módulo de análise de imagens |
