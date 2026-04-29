@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
-API REST desenvolvida em Flask como parte do **Sistema de Irrigação Inteligente com IA**. Responsável por expor os dados de irrigação e os diagnósticos de saúde das plantas — gerados por inteligência artificial via análise de imagens — para consumo pelo aplicativo mobile do sistema.
+API REST desenvolvida em Flask como parte do **Sistema de Irrigação Inteligente com IA**. Responsável por expor os dados de irrigação e os diagnósticos de saúde das plantas - gerados por inteligência artificial via análise de imagens — para consumo pelo aplicativo mobile do sistema.
 
->  Este repositório faz parte do projeto maior [**Smart Irrigation System**](https://github.com/Thiiagoramos/PlantIA) — veja lá a arquitetura completa.
+>  Este repositório faz parte do projeto maior [**Smart Irrigation System**](https://github.com/Thiiagoramos/PlantIA) - veja lá a arquitetura completa.
 
 ---
 
@@ -80,8 +80,8 @@ A API estará disponível em `http://localhost:5000`.
 ##  Dependências
 
 Listadas em `requirements.txt`. As principais incluem:
-- `Flask` — framework web
-- `flask-cors` — suporte a CORS para consumo pelo app mobile
+- `Flask` - framework web
+- `flask-cors` - suporte a CORS para consumo pelo app mobile
 
 ---
 
@@ -99,7 +99,7 @@ Listadas em `requirements.txt`. As principais incluem:
 | Repositório | Descrição |
 |------------|-----------|
 | [PlantIA](https://github.com/Thiiagoramos/PlantIA) | Visão geral e arquitetura do projeto completo |
-| [PlantIA-api](https://github.com/Thiiagoramos/PlantIA-api) | Esta API — back-end Flask |
+| [PlantIA-api](https://github.com/Thiiagoramos/PlantIA-api) | Esta API - back-end Flask |
 | *(App Mobile)* | Aplicativo de visualização dos dados |
 | *(IA / Diagnóstico)* | Módulo de análise de imagens |
 
