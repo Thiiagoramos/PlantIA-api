@@ -9,7 +9,7 @@
 
 API REST desenvolvida em Flask como parte do **Sistema de Irrigação Inteligente com IA**. Responsável por expor os dados de irrigação e os diagnósticos de saúde das plantas - gerados por inteligência artificial via análise de imagens — para consumo pelo aplicativo mobile do sistema.
 
->  Este repositório faz parte do projeto maior [**Smart Irrigation System**](https://github.com/Thiiagoramos/PlantIA) - veja lá a arquitetura completa.
+>  Este repositório faz parte do projeto maior [**Smart Irrigation System**](https://github.com/Thiiagoramos/PlantIA).
 
 ---
 
